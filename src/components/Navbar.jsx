@@ -11,7 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/alican.png';
 import { Link } from 'react-scroll';
-import Pdf from "../assets/pdf/alican.pdf";
+import Pdf from "../assets/pdf/Ali Can Bayazıt-TR-EN.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

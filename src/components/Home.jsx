@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiDownload } from 'react-icons/hi';
-import Pdf from "../assets/pdf/alican.pdf";
+import Pdf from "../assets/pdf/Ali Can Bayazıt-TR-EN.pdf";
 
 const Home = () => {
   return (
